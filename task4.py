@@ -1,5 +1,5 @@
 # Task 4
-# You have a list of numbers having values fom 1 to n, each occurring only once.
+# You have a list of numbers having values from 1 to n, each occurring only once.
 # The list is unordered.
 # An unknown amount of values is missing 
 # The number n is the maximum value of the list.
