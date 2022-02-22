@@ -20,13 +20,18 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-4. install pytest
+4. Install Pytest
 
 ```bash
 pip3 install pytest
 ```
 
+5. Run the tests
+
 ```bash
 pytest #run tests
 ```
 
+## Overall goal is to write the functions to pass the tests.
+
+Good Luck
